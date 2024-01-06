@@ -1,0 +1,8 @@
+ * [实战项目](https://docsify.js.org/#/zh-cn/quickstart)
+    * [泰坦尼克号乘客存活情况](titanic_survival_exploration/titanic_survival_exploration.md)
+    * [预测波士顿房价](boston_housing/boston_housing(end).md)
+    * [为慈善机构寻找捐助者](finding_donors/finding_donors-zh.md) 
+    * [狗狗品种分类器](dog_app/dog_app.md)
+    * [创建客户细分](creating_customer_segments/customer_segments-zh.md)
+    * [强化学习走迷宫](robot_maze/robot_maze.md)
+    * [预测 Rossmann 未来的销售额](Rossmann_Store_Sales/Rossmann_xgb.md)

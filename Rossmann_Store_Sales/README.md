@@ -1,8 +1,11 @@
- #开发环境：windows10, Anacoda3.5 , jupyter notebook ,python3.6 
+#项目名称： Rossmann 销售预测
+
+
+```python
+#开发环境：windows10, Anacoda3.5 , jupyter notebook ,python3.6 
 #库： numpy,pandas,matplotlib,seaborn,xgboost,time,warnings
 #运行时间：CPU: i5-6700HQ，约两个半钟
- 
-#项目名称： Rossmann 销售预测
+```
 
 ## 基本流程
 
@@ -14,3 +17,7 @@
 * 6. 模型构建、训练、调参、优化。
 * 7. 生成kaggle的提交文件。
 * 8. 记录kaggle得分情况。
+
+```python
+jupyter nbconvert --to markdown Rossmann_xgb.ipynb
+```

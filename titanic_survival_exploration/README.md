@@ -37,6 +37,7 @@ $ pip install numpy pandas matplotlib scikit-learn scipy jupyter
 
 ```bash
 $ jupyter notebook titanic_survival_exploration.ipynb
+jupyter nbconvert --to markdown titanic_survival_exploration.ipynb
 ```
 ​
 这会启动 Jupyter Notebook 把项目文件打开在你的浏览器中。
